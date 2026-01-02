@@ -1,7 +1,7 @@
 # Skin Cancer Classification using Deep Learning (PyTorch)
 
 ## 🔬 Project Overview
-This project was developed as part of the **HerStory** mentoring program. The goal was to build a Convolutional Neural Network (CNN) capable of classifying skin lesions into 7 different diagnostic categories using the **HAM10000** dataset.
+The goal was to build a Convolutional Neural Network (CNN) capable of classifying skin lesions into 7 different diagnostic categories using the **HAM10000** dataset.
 
 The main focus of this project was to handle a multi-class medical classification task while actively combating **overfitting** through regularization techniques.
 
